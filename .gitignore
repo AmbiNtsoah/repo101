@@ -1,0 +1,14 @@
+# IDE
+.idea/
+.vscode/
+.sonarlint/
+
+# snyk
+.github/instructions/sny_rules.instructions.md
+
+# folders
+**/__pycache__/
+
+# environment
+.env
+.virtualenv/
